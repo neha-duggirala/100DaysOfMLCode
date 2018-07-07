@@ -1,5 +1,5 @@
 
-DAY 1:
+DAY 0:
 To implement linear regression with one
 variable to predict profits for a food truck. Suppose that I am the CEO of a
 restaurant franchise and are considering different cities for opening a new
