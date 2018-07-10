@@ -9,3 +9,8 @@ I would like to use this data to help select which city to expand
 to next.
 The file 1.txt contains the dataset for our linear regression prob-
 lem.
+
+
+**DAY 5:**
+To build a logistic regression model to
+predict whether a student gets admitted into a university.
