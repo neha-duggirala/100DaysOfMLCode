@@ -38,10 +38,26 @@ LOGISTIC REGRESSION
 https://www.linkedin.com/feed/update/urn:li:activity:6432501259634343936
 Link to the code: https://lnkd.in/fhy7TW3
 
+
 **DAY 12**:
 understood the following concepts:
 fixing missingdata using 'Imputer', categorical data using 'LabelEncoder' and dummy Encoding using 'OneHotEncoder' and finally splitting dataset into 'testset' and 'trainset' using train_test_split from sklearn libraries.
 
+
 **DAY 13:**
 gone through a few research papers which helped in understanding the real world applications of machine learning.
 link to youtube:https://www.youtube.com/watch?v=SHTOI0KtZnU
+
+
+**DAY 14:**
+DECISION TREE: Basic concepts and a few terminologies like prunning, information gain, gini impurity etc.
+link to reference:https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+
+
+**DAY 15:**
+Decision tree implementation from scratch using python
+youtube link:https://www.youtube.com/watch?v=qDcl-FRnwSU&t=2440s
+
+
+**DAY 16:**
+Implementation of decision tree using sklearn
