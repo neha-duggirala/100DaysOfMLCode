@@ -61,4 +61,5 @@ youtube link:https://www.youtube.com/watch?v=qDcl-FRnwSU&t=2440s
 
 **DAY 16:**
 Implementation of decision tree using sklearn
+Detailed explanation on linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6435936765810446336
 Link to code:https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/decision_tree1.ipynb
