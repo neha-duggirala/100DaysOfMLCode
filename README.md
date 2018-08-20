@@ -69,3 +69,9 @@ Link to code:https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/decis
 TOPIC: Probability
 UNDERSTANDING: In machine learning, the concept of probability plays an important role. For example, we ask our machine learning algorithm how likely our result is. Thus, after knowing the importance I started a playlist of Prof. Joe Biltzstein from Harvard University.
 Source: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
+
+**DAY 18:**
+Watched a few videos and read some articles on ml.
+Source:https://docs.microsoft.com/en-us/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers
+Youtube link:https://www.youtube.com/watch?v=LQEyK4POowk
