@@ -1,7 +1,7 @@
 
 **DAY 1:**
 I have started with pandas  which is a python library for data  analysis
-https://www.linkedin.com/feed/update/urn:li:activity:6427904572823560192
+[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6427904572823560192)
 
 
 **DAY 2:**
