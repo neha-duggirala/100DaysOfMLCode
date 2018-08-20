@@ -25,7 +25,7 @@ The tasks I have accomplished are understanding :
  **DAY 6,7:**
 By the end of #week1ofmlcode in 100 days of ml coding challenge,  I thought of taking up a course on Coursera -"Introduction to Data Science in Python" which would help me to emulate the best and I successfully completed the course which helped me in understanding data manipulation and cleaning techniques using the popular python pandas data science library.
 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6430117806284599296) and 
-[code] ( https://lnkd.in/fR9hbRm)is available.
+[code](https://lnkd.in/fR9hbRm) is available.
 
 
 **DAY 8,9:**
