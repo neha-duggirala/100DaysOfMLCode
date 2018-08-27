@@ -75,3 +75,7 @@ UNDERSTANDING: In machine learning, the concept of probability plays an importan
 Watched a few videos and read some articles on ml.
 [Source](https://docs.microsoft.com/en-us/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers)
 [Youtube ](https://www.youtube.com/watch?v=LQEyK4POowk)
+
+**DAY 19-23:**
+Proper understanding on probability.Wrote my first blog article [INTUITIONS ON PROBABILITY](http://thrivetoknow.blogspot.com/2018/08/intuitions-on-probability.html)
+
