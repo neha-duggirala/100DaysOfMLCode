@@ -81,5 +81,9 @@ Proper understanding on probability.Wrote my first blog article [INTUITIONS ON P
 
 
 **DAY 24-26:**
-participated in my first real-world [competition](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/?renew)
+Participated in my first real-world [competition](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/?renew)
 
+**DAY 27,28:*
+Naive Bayes Classifier:
+This algorithm is mostly used in text classification/ Spam Filtering/ Sentiment Analysis/Recommendation System and with problems having multiple classes.Knew 3 different popular [Naive Bayes classifiers](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+).
