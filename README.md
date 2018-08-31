@@ -79,3 +79,7 @@ Watched a few videos and read some articles on ml.
 **DAY 19-23:**
 Proper understanding on probability.Wrote my first blog article [INTUITIONS ON PROBABILITY](http://thrivetoknow.blogspot.com/2018/08/intuitions-on-probability.html)
 
+
+**DAY 24-26:**
+participated in my first real-world [competition](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/?renew)
+
