@@ -87,3 +87,7 @@ Participated in my first real-world [competition](https://www.machinehack.com/co
 Naive Bayes Classifier:
 This algorithm is mostly used in text classification/ Spam Filtering/ Sentiment Analysis/Recommendation System and with problems having multiple classes.Knew 3 different popular [Naive Bayes classifiers](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
 ).
+
+
+**DAY 29:**
+Naive Bayes [Infografic](https://www.linkedin.com/feed/update/urn:li:activity:6441790742829588480) and wrote code
