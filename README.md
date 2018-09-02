@@ -90,4 +90,8 @@ This algorithm is mostly used in text classification/ Spam Filtering/ Sentiment 
 
 
 **DAY 29:**
-Naive Bayes [Infografic](https://www.linkedin.com/feed/update/urn:li:activity:6441790742829588480) and wrote code
+Naive Bayes [Infografic](https://www.linkedin.com/feed/update/urn:li:activity:6441790742829588480) 
+
+
+**DAY 30:**
+[Naive bayes](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Naive-bayes) code from scratch using python
