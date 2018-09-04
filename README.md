@@ -19,6 +19,7 @@ The tasks I have accomplished are understanding :
 1. cost functions
 2. gradient descent
 3. linear regression from scratch
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/LinearRegression.jpg)
 [Linkedin post]( https://www.linkedin.com/feed/update/urn:li:activity:6429363029376360448)
  
  
@@ -35,7 +36,8 @@ I have learned efficient ways to use the Mathplotlib which is a plotting library
 
 **DAY 10,11:**
 LOGISTIC REGRESSION
-[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6432501259634343936) and 
+[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6432501259634343936) 
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/LogisticRegression.jpg)
 [code]( https://lnkd.in/fhy7TW3) is available.
 
 
@@ -62,6 +64,7 @@ Decision tree implementation from scratch using python.
 **DAY 16:**
 Implementation of decision tree using sklearn.
 Detailed explanation on [linkedin]( https://www.linkedin.com/feed/update/urn:li:activity:6435936765810446336)
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/DecisionTree.jpg)
    [code](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/decision_tree1.ipynb)
 
 
@@ -91,7 +94,9 @@ This algorithm is mostly used in text classification/ Spam Filtering/ Sentiment 
 
 **DAY 29:**
 Naive Bayes [Infografic](https://www.linkedin.com/feed/update/urn:li:activity:6441790742829588480) 
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/NaiveBayes1.jpg)
 
 
 **DAY 30:**
 [Naive bayes](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Naive-bayes) code from scratch using python
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/NaiveBayes2.jpg)
