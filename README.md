@@ -114,3 +114,6 @@ Naive Bayes
 **DAY 30:**
 [Naive bayes](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Naive-bayes) code from scratch using python
 ![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/NaiveBayes2.jpg)
+
+**DAY 30-34:**
+[SVM](https://eduvatecom.wordpress.com/2018/09/16/large-margin-classifier-svm/) article.
