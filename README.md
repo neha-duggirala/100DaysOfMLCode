@@ -131,3 +131,9 @@ into spam and non-spam email with high accuracy.SVMs are used to build own spam 
 ![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/svm_infographic.png)
 
 [Github code](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/SupportVectorMachine)
+
+
+**DAY 38-40:**
+Ensemble learning helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model.</br>
+references:https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+<br/>![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/Ensemble_Learning.png)
