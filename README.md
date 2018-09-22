@@ -138,3 +138,10 @@ Ensemble learning helps improve machine learning results by combining several mo
 references:https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6448941159027965952/)
 <br/>![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/Ensemble_Learning.png)
+
+
+
+**DAY 41:**
+Participated in an [online hackathon] 
+(https://www.techgig.com/hackathon/question/OGJobFRZZWJSVWlITTk1cnpXQWIraG1VaE5CMjdWWXpTU3JDYkpNRVI3RT0=/1)
+on data science 
