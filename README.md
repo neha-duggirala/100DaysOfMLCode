@@ -142,6 +142,5 @@ references:https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 
 
 **DAY 41:**
-Participated in an [online hackathon] 
-(https://www.techgig.com/hackathon/question/OGJobFRZZWJSVWlITTk1cnpXQWIraG1VaE5CMjdWWXpTU3JDYkpNRVI3RT0=/1)
+Participated in an [online hackathon](https://www.techgig.com/hackathon/question/OGJobFRZZWJSVWlITTk1cnpXQWIraG1VaE5CMjdWWXpTU3JDYkpNRVI3RT0=/1)
 on data science 
