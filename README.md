@@ -148,4 +148,4 @@ on data science
 
 **DAY 42:**</br>
 By using Sklearn libraries [implemented](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Ensemble%20Learning)
-</br>Useful [resources]()
+</br>Useful [resources](https://www.linkedin.com/feed/update/urn:li:activity:6449671205602590720)
