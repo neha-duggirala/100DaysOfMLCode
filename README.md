@@ -133,7 +133,7 @@ into spam and non-spam email with high accuracy.SVMs are used to build own spam 
 [Github code](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/SupportVectorMachine)
 
 
-**DAY 38-40:**
+**DAY 38-40:**</br>
 Ensemble learning helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model.</br>
 references:https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6448941159027965952/)
@@ -141,6 +141,11 @@ references:https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 
 
 
-**DAY 41:**
+**DAY 41:**</br>
 Participated in an [online hackathon](https://www.techgig.com/hackathon/question/OGJobFRZZWJSVWlITTk1cnpXQWIraG1VaE5CMjdWWXpTU3JDYkpNRVI3RT0=/1)
 on data science 
+
+
+**DAY 42:**</br>
+By using Sklearn libraries [implemented](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Ensemble%20Learning)
+</br>Useful [resources]()
