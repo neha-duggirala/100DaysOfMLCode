@@ -149,3 +149,14 @@ on data science
 **DAY 42:**</br>
 By using Sklearn libraries [implemented](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/Ensemble%20Learning)
 </br>Useful [resources](https://www.linkedin.com/feed/update/urn:li:activity:6449671205602590720)
+
+
+**DAY 43,44:**</br>
+Flask is the best choice for all the web programmers, to start from the scratch and for building minimalistic web applications. One more advantage of using Flask is you can integrate machine learning algorithms(Python Based) within the functions with ease which makes your applications more intelligent and cognitive.
+
+Here are few websites models you can build with Flask:
+
+Blog Applications, Chat Applications, Data Visualisation, Dashboards, REST Applications, Admin Pages, Email-Services.
+so I did a small Project on building a database for an art gallery
+</br>
+![](https://drive.google.com/file/d/1asmkP3H_MHeV4kfBSV7XCbbExHLkRVBf/view?usp=sharing)
