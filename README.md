@@ -158,5 +158,4 @@ Here are few websites models you can build with Flask:
 
 Blog Applications, Chat Applications, Data Visualisation, Dashboards, REST Applications, Admin Pages, Email-Services.
 so I did a small Project on building a database for an art gallery
-</br>
-![](https://drive.google.com/file/d/1asmkP3H_MHeV4kfBSV7XCbbExHLkRVBf/view?usp=sharing)
+</br>![My work](https://drive.google.com/file/d/1asmkP3H_MHeV4kfBSV7XCbbExHLkRVBf/view?usp=sharing)
