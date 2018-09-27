@@ -159,3 +159,8 @@ Here are few websites models you can build with Flask:
 Blog Applications, Chat Applications, Data Visualisation, Dashboards, REST Applications, Admin Pages, Email-Services.
 so I did a small Project on building a database for an art gallery
 </br>![My work](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/Art%20Gallery.jpg)
+
+
+
+**DAY 45,46:**</br>
+As teaching gives a better learning, I've prepared and given a [seminar](https://www.linkedin.com/feed/update/urn:li:activity:6451223047323127808) at Gandhi Institute of Technology & Management (GITAM) University, Visakhapatnam today. I've introduced the standard ML problem types (classification and regression) and discuss prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
