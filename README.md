@@ -171,3 +171,8 @@ Data Preprocessing:</br>
 https://www.youtube.com/watch?v=0xVqLJe9_CY&list=PL2-dafEMk2A64Er6yZHw1CJoFWQqYxj4B</br>
 https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/</br>
 https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html</br>
+
+
+**DAY 51:**</br>
+Introduction to Supervized learning</br>
+Clustering Algorithms (K-means): k-means clustering is a method of vector quantization, originally from signal processing, that is popular for cluster analysis in data mining. It has two main steps.</br> STEP ONE: Cluster assignment</br> STEP TWO: Move the centroid
