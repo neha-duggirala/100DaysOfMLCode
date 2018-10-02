@@ -164,3 +164,10 @@ so I did a small Project on building a database for an art gallery
 
 **DAY 45,46:**</br>
 As teaching gives a better learning, I've prepared and given a [seminar](https://www.linkedin.com/feed/update/urn:li:activity:6451223047323127808) at Gandhi Institute of Technology & Management (GITAM) University, Visakhapatnam today. I've introduced the standard ML problem types (classification and regression) and discuss prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
+
+
+**DAY 47-50:**</br>
+Data Preprocessing:</br>
+https://www.youtube.com/watch?v=0xVqLJe9_CY&list=PL2-dafEMk2A64Er6yZHw1CJoFWQqYxj4B</br>
+https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/</br>
+https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html</br>
