@@ -176,3 +176,7 @@ https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html
 **DAY 51:**</br>
 Introduction to Supervized learning</br>
 Clustering Algorithms (K-means): k-means clustering is a method of vector quantization, originally from signal processing, that is popular for cluster analysis in data mining. It has two main steps.</br> STEP ONE: Cluster assignment</br> STEP TWO: Move the centroid
+
+**DAY 52-57:**</br>
+Pandas and Numpy</br>
+Prepared and gave a seminar</br>
