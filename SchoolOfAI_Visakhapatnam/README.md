@@ -1,6 +1,6 @@
 ![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/SchoolOfAI.jpg)
 # :one: Workshop | AI Workshop | @Startup Accelerator India
-</br></br>
+</br>
 ## Introduction to ML, numpy, pandas and sklearn using Iris dataset.</br>
 
 
