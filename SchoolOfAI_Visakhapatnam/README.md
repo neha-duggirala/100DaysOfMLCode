@@ -1,5 +1,5 @@
 ![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/infographics/SchoolOfAI.jpg)
-# AI Workshop 1 | @Startup startup incubation center
+# AI Workshop 1 | @Startup incubation center
 </br>
 
 ## :one: Introduction to ML, numpy, pandas and sklearn using Iris dataset
