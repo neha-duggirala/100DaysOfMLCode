@@ -180,3 +180,6 @@ Clustering Algorithms (K-means): k-means clustering is a method of vector quanti
 **DAY 52-57:**</br>
 Pandas and Numpy</br>
 Prepared and gave a seminar</br>
+
+**DAY 58:**</br>
+As before starting to learn any new technologies, knowing its use cases and real world applications helps in improved learning,i have started with knowing the amazing applications of deel learning and how ks it different from machine learning
