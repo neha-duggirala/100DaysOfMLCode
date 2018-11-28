@@ -3,6 +3,8 @@
 Based on the dataset, if it is linearly separable  LinearSVM can be used or
 else  kernel trick is used to project the data into a high-dimensional space before attempting to find a hyperplane.
 <br/>
+
+
 :radio_button: Spam classification:<br/>
 -------------
 Many email services today provide spam filters that are able to classify emails 
