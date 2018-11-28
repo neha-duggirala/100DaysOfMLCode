@@ -1,12 +1,12 @@
 ## Ensemble learning
 It helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model.
 
-Traditional Method:</br>
+**Traditional Method:**</br>
 1. Pick random subsets(uniformly, randomly from the data)
 2. Select an algorithm (rule: learn over the data)
 3. Finally apply to them, the mean on all the outputs(combine/ bagging)
 
-Optimal Method:(Boosting)</br>
+**Optimal Method:**(Boosting)</br>
 1. Instead of randomly picking up the data, pick up the data which is hard(hardest example)
 ex: We tend to learn things which we don't know but not that which we have already mastered
 	a. ERROR: The probability over a distribution of the hypothesis value (predicted) and the true value (given)  not being equal.
