@@ -183,3 +183,6 @@ Prepared and gave a seminar</br>
 
 **DAY 58:**</br>
 As before starting to learn any new technologies, knowing its use cases and real world applications helps in improved learning,i have started with knowing the amazing applications of deel learning and how ks it different from machine learning
+
+**DAY 59-60:**</br>
+Started course.fast.ai which is a top down approach of doing deep learning
