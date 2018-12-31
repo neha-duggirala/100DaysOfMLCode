@@ -190,4 +190,4 @@ Started course.fast.ai which is a top down approach of doing deep learning
 **DAY 61-100:**</br>
 Finished one of the specializations of deeplearning.ai. And took pytorch course too 
 </br>
-![](https://drive.google.com/open?id=1EcZ1vkpuJWigaFt45K9L2vEdAx95MRQh)
+![](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/Coursera.jpg)
