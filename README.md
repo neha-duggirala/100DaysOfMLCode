@@ -186,3 +186,6 @@ As before starting to learn any new technologies, knowing its use cases and real
 
 **DAY 59-60:**</br>
 Started course.fast.ai which is a top down approach of doing deep learning
+
+**DAY 61-100:**</br>
+Finished one of the specializations of deeplearning.ai. And took pytorch course too 
