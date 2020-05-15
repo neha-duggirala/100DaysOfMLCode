@@ -8,3 +8,7 @@ Unlike in computer vision where we fed the DNN the pixel values, in NLP it's not
 2.  Word Index
 3. Text sequence
 4. Padding  
+
+## Day 2
+
+Implemented text preprocessing on a real dataset for sarcasm detection. Check the [code](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/NLP/Sarcasm_detection.ipynb)  here. You can find the [Dataset📚](https://rishabhmisra.github.io/publications/)
