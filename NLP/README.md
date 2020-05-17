@@ -10,5 +10,11 @@ Unlike in computer vision where we fed the DNN the pixel values, in NLP it's not
 4. Padding  
 
 ## Day 2
-
 Implemented text preprocessing on a real dataset for sarcasm detection. Check the [code](https://github.com/neha-duggirala/100DaysOfMLCode/blob/master/NLP/Sarcasm_detection.ipynb)  here. You can find the [Dataset📚](https://rishabhmisra.github.io/publications/)
+
+## Day 3 | ML Project
+Started working on Bosch Production Line dataset from Kaggle. It has 970 features, 1183747 records and data cleaning has to be performed.
+Link to the [Dataset](https://www.kaggle.com/c/bosch-production-line-performance/overview)
+
+## Day 4 | Word Embeddings
+The idea that words and associated words are clustered as vectors in a multi-dimensional space is called Word Embedding.
