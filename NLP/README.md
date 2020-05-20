@@ -18,3 +18,9 @@ Link to the [Dataset](https://www.kaggle.com/c/bosch-production-line-performance
 
 ## Day 4 | Word Embeddings
 The idea that words and associated words are clustered as vectors in a multi-dimensional space is called Word Embedding.
+
+
+### Tensors
+[Tensors](https://www.tensorflow.org/guide/tensor) are multi-dimensional arrays with a uniform type. They are immutable( cannot be changed) There are scalars, 1d, 2d and soon. A 4d tensor of shape (3,2,4,5) can be visualized as follows<br>
+<img src='https://www.tensorflow.org/guide/images/tensor/4-axis_block.png' width=250 height=250/>
+<img src='https://www.tensorflow.org/guide/images/tensor/shape2.png' width=250 height=250/>
