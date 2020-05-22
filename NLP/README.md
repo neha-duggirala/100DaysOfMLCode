@@ -30,3 +30,7 @@ There various topics I have covered.
 [Tutorials](https://app.wandb.ai)
 
 ### Global avg pooling vs flattening
+
+## Day 8,9 | Theory
+
+Watched a [playlist](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=878s) about word vectors and origin of NLP
