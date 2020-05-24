@@ -34,3 +34,8 @@ There various topics I have covered.
 ## Day 8,9 | Theory
 
 Watched a [playlist](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=878s) about word vectors and origin of NLP
+
+## Day 10,11 | Word2Vec
+Understood the math for likelihood, cost function, prediction function and similarity between the center word vector and other word vector. This is very interesting [Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
+<img src="https://adriancolyer.files.wordpress.com/2016/04/word2vec-king-queen-composition.png?w=656"/>
+[In Word2Vec Explained!](https://www.youtube.com/watch?v=yFFp9RYpOb0), 
