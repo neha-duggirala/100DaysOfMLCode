@@ -42,3 +42,10 @@ Understood the math for likelihood, cost function, prediction function and simil
 
 ## Day 12,13 | IMDB Review
 Worked on training a model to analyse sentiment of a movie review with the dataset. Check out the code [here](https://github.com/neha-duggirala/IMDB-review-classification)
+
+## Day 14,15 | Data Visualization
+Learned different visualization tools
+1. Matplotlib
+2. Plotly
+3. Seaborn
+4. bokeh 
