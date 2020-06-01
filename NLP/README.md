@@ -48,4 +48,7 @@ Learned different visualization tools
 1. Matplotlib
 2. Plotly
 3. Seaborn
+
+## Day 16,17 | Widhya
+Worked on creating a mission for a platform for [Widhya](https://widhya.org/#/). There was a dataset which has a list of colleges and the ratings of technologies each college is good at. Worked on visualization of data using Matplotlib and Plotly. Had fun creating modules!  
 4. bokeh 
