@@ -52,3 +52,6 @@ Learned different visualization tools
 ## Day 16,17 | Widhya
 Worked on creating a mission for a platform for [Widhya](https://widhya.org/#/). There was a dataset which has a list of colleges and the ratings of technologies each college is good at. Worked on visualization of data using Matplotlib and Plotly. Had fun creating modules!  
 4. bokeh 
+
+## Day 18, 19 | Stcok market prediction using Linear regression
+Worked on quandl stock dataset. I have observed that linear regression gives a best fit line that other algorithms like SVM. Also understood a few concepts of stock market. 
