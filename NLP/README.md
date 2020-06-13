@@ -55,3 +55,6 @@ Worked on creating a mission for a platform for [Widhya](https://widhya.org/#/).
 
 ## Day 18, 19 | Stcok market prediction using Linear regression
 Worked on quandl stock dataset. I have observed that linear regression gives a best fit line that other algorithms like SVM. Also understood a few concepts of stock market. 
+
+## Day 20,21,22,23 | Generation of Poetry
+[Code](https://github.com/neha-duggirala/Poetry-Generation) to the project
