@@ -58,3 +58,12 @@ Worked on quandl stock dataset. I have observed that linear regression gives a b
 
 ## Day 20,21,22,23 | Generation of Poetry
 [Code](https://github.com/neha-duggirala/Poetry-Generation) to the project
+
+## Day 24,25 | RNNs
+From the following resources, Understood the working of RNNs
+1. [Python programming](https://pythonprogramming.net/recurrent-neural-network-rnn-lstm-machine-learning-tutorial/)
+2. [Recurrent Neural Networks - Ep. 9 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=_aCuOwF1ZjU)
+3. [ML with Recurrent Neural Networks (NLP Zero to Hero - Part 4)](https://www.youtube.com/watch?v=OuYtk9Ymut4&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=4)
+4. [Illustrated Guide to LSTM's and GRU's: A step by step explanation](https://www.youtube.com/watch?time_continue=220&v=8HyCNIVRbSU&feature=emb_title)
+
+## Day 26 | NLP deeplearning.ai certification
