@@ -68,8 +68,8 @@ From the following resources, Understood the working of RNNs
 
 ## Day 26 | NLP deeplearning.ai certification
 Over the last four weeks, I have learnt
-1. Basic Tokenization and Padding of text 
-2. Embeddings, and how words could be mapped to vectors, and words of similar semantics
-3. Sequence models
+1. Basic Tokenization and Padding of text .
+2. Embeddings, and how words could be mapped to vectors, and words of similar semantics.
+3. Sequence models.<br>
 Wrapped up by taking everything I learned and using it to build a [poetry generator!](https://github.com/neha-duggirala/Poetry-Generation)
 This is just a beginning in using TensorFlow for natural language processing. Hope to dive deeper 🏊‍♀️
