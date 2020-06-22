@@ -73,3 +73,5 @@ Over the last four weeks, I have learnt
 3. Sequence models.<br>
 Wrapped up by taking everything I learned and using it to build a [poetry generator!](https://github.com/neha-duggirala/Poetry-Generation)
 This is just a beginning in using TensorFlow for natural language processing. Hope to dive deeper 🏊‍♀️
+
+## Day 27 | 
