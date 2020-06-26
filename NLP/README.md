@@ -74,4 +74,18 @@ Over the last four weeks, I have learnt
 Wrapped up by taking everything I learned and using it to build a [poetry generator!](https://github.com/neha-duggirala/Poetry-Generation)
 This is just a beginning in using TensorFlow for natural language processing. Hope to dive deeper 🏊‍♀️
 
-## Day 27 | 
+## Day 27,28,29,30 | Logistic regression for sentiment analysis
+1. Natural Language preprocessing using nltk <br>
+ a. Tokenizing the string<br>
+ b. Lowercasing<br>
+ c. Removing stop words and punctuation <br>
+ d. Stemming <br>
+ ```
+from nltk.corpus import stopwords          # module for stop words that come with NLTK
+from nltk.stem import PorterStemmer        # module for stemming
+from nltk.tokenize import TweetTokenizer   # module for tokenizing strings
+```
+2. Visualizing word frequencies <br>
+ a. 
+3. Visualizing tweets and Logistic Regression models <br>
+ a. 
