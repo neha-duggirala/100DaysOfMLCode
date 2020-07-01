@@ -86,6 +86,4 @@ from nltk.stem import PorterStemmer        # module for stemming
 from nltk.tokenize import TweetTokenizer   # module for tokenizing strings
 ```
 2. Visualizing word frequencies <br>
- a. 
 3. Visualizing tweets and Logistic Regression models <br>
- a. 
