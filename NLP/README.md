@@ -92,3 +92,8 @@ from nltk.tokenize import TweetTokenizer   # module for tokenizing strings
 
 Using [pandas-profiling](https://www.linkedin.com/feed/update/urn:li:activity:6680821087158194176/) is of great use. This removed the burden for usage of applying info, unique, isna and what not just to get insights from of data. <br>
 <img src='https://drive.google.com/file/d/1wvzQP5UHOSNH6wGSJThSkUQxlzo6atRQ/view?usp=sharing' width=250 height=250/>
+
+
+## Day 30 | Natural Language Processing with Deep Learning in Python Course in Udemy
+
+After 10 months, I decided to take up a course on NLP apart from my profesional work(which includes only using pandas, a few python logics, excel and SQL). 
